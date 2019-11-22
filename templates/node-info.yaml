@@ -1,0 +1,4 @@
+parameter_defaults:
+  ControllerCount: 3
+  ComputeCount: 0
+  ComputeHCICount: 3
